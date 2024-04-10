@@ -16,6 +16,7 @@
 
 ## General Information
 - Provide general information about your project here.
+  This project is aimed at finding the variables significant in predicting the demand for the shared bikes thereby helping the company to avoid loss. 
 
 - What is the background of your project?
   This is an assignment study taken as a part of AI&ML Jan 2024 batch IIIT-Bangalore
