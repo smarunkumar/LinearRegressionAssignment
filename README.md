@@ -30,8 +30,8 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- The r2 is 79.6 on test set and on trian set it is 83.5 with lr_model. The difference is less than 5%
-- Demand for the bikes depend on variables: temp, workingday, windspeed, year, September, Saturday, Summer, Winter, Mist, weathersit -3 (Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds)
+- The r2 is 80.4 on test set and on trian set it is 83.3 with lr_model. The difference is less than 5%
+- Demand for the bikes depends on following independent features: temp, holiday, windspeed, year, September, Spring, Summer, Winter, Mist, weathersit -3 (Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds) as per built model lr_model_rfe
 - Further from EDA analysis: 
 - Company should focus on expanding buisness in September
 - Company can provide offers during weekends/holidays as the users count is high these days
